@@ -1,10 +1,3 @@
-cd quiz-app
-git init
-https://github.com/Antroooo/Interactive-Quiz-Application
-git add .
-git commit -m "Antroooo"
-git branch -M main
-git push -u origin main
 
 import React, { useState } from 'react';
 
