@@ -1,8 +1,8 @@
 cd quiz-app
 git init
-git remote add origin https://github.com/YOUR_USERNAME/quiz-app.git
+https://github.com/Antroooo/Interactive-Quiz-Application
 git add .
-git commit -m "Initial commit"
+git commit -m "Antroooo"
 git branch -M main
 git push -u origin main
 
